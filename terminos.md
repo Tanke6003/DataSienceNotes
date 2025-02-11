@@ -49,7 +49,7 @@
 📌 Aplicación de técnicas avanzadas para extraer valor de los datos.  
 
 📌 **Ejemplo gráfico:**  
-🖼️ ![Texto alternativo](Recursos/AnaliticaAvanzada.png)  
+![Texto alternativo](Recursos/AnaliticaAvanzada.png)  
 
 ---
 
