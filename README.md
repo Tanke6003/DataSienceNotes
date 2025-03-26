@@ -32,9 +32,14 @@
 ### 📊 **Datos**  
 📌 Información almacenada digitalmente que se usa como base para análisis y toma de decisiones.  
 
+📌 **Porque son necesarios los datos?**
+
+Las decisiones basadas en datos requieren que los datos brutos relevantes esten bien organizados y almacenados en una forma digital
+
 🔹 **Tipos de datos:**  
 📌 **🟢 Datos Tradicionales** – Datos concretos y estructurados.  
-📌 **🔵 Macrodatos (Big Data)** – Gran volumen de datos estructurados, semiestructurados o no estructurados.  
+📌 **🔵 Macrodatos (Big Data)** – Gran volumen de datos estructurados, semiestructurados o no estructurados. 
+
 
 📌 **🔑 Factores clave en Big Data:**  
 ✅ **Volumen** – Cantidad de datos generados.  
